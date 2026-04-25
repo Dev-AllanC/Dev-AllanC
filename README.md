@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Alan Cruz
 
-**`Desenvolvedor Front-End e Analista de Dados`**
+**`Logística | Front-End | Análise de Dados`**
 
 Me chamo Alan Santos da Cruz, tenho 31 anos e sou natural de Salvador Ba. Concluí o ensino médio técnico em ADM em 2015. Possuo vasta experiência em logística, administração e processos. Hoje estou em processo de transição de carreira, atualmente stou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Sou apaixonado pela área tech e gosto de resolver problemas, buscando evoluir sempre, usando toda minha bagagem prática de mercado para trazer soluções através da tecnologia. 
 
@@ -35,14 +35,6 @@ Me chamo Alan Santos da Cruz, tenho 31 anos e sou natural de Salvador Ba. Conclu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 
 <img 
     align="left" 

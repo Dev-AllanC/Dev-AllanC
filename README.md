@@ -51,7 +51,7 @@
 
 ---
 
-## 🐍 Minhas contribuições sendo devoradas...
+## 🐍 Minhas contribuições.
 
 <div align="center">
   <picture>
